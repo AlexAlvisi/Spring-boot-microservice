@@ -36,7 +36,7 @@ Cliccare Run su CouponMicroserviceApplication
 
 Digitare sulla barra degli indirizzi http://localhost:8094/signin.html
 
-Effettuare il login immettendo uno username a scelta tra LVSLSN80R08C265P, FRNFBA85M08D761M, DSTLCU89R52D761R, la password è sempre Hello per semplicità
+Effettuare il login immettendo uno username a scelta tra LVSLSN80R08C265P(consigliato), FRNFBA85M08D761M, DSTLCU89R52D761R, la password è sempre Hello per semplicità
 Guardare il file word allegato per gli screenshot e ulteriori informazioni.
 
 
